@@ -1,0 +1,100 @@
+{% extends "homebase.html" %}
+
+{% block title %} {{ setting.company.title }} {% endblock %}
+{% block keywords %} {{ setting.description }} {% endblock %}
+{% block description %} {{ setting.keyword }}{% endblock %}
+
+{% block head %} <link rel='shortcut icon' type='image/x-icon' href='{{ setting.icon.url }}' />
+
+
+
+{% load static %}
+    <link rel="stylesheet" href=" {% static 'contactTemplate/bootstrap.min.css' %}">
+	<link  rel="stylesheet" href="{% static 'contactTemplate/slick.css' %}" />
+    <link  rel="stylesheet" href="{% static 'contactTemplate/style.css' %}" />
+	<link  rel="stylesheet" href="{% static 'contactTemplate/slick-theme.css' %}" />
+	<link  rel="stylesheet" href="{% static 'contactTemplate/nouislider.min.css'%}" />
+	<link rel="stylesheet" href="{% static 'contactTemplate/font-awesome.min.css' %}">
+{% endblock %}
+{% block content %}
+       <!-- Breadcrumb Area Start -->
+
+
+  <section class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url({% static 'img/bg-img/38.jpg'%});">
+        <div class="container h-100">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="breadcrumb-content text-center">
+                        <h2 class="page-title">Login</h2>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb justify-content-center">
+                                <li class="breadcrumb-item"><a href="index.html"><i class="icon_house_alt"></i> Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Login</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+   <br>
+    <br>
+
+    <div class="section">
+		<!-- container -->
+		<div class="container">
+			<!-- row -->
+			<div class="row">
+
+                <div class="col-md-6">
+						<div class="billing-details">
+
+							<div class="section-title">
+								<h3 class="title">Login Form</h3>
+							</div>
+
+                            {% if messages %}
+                                {% for message in messages %}
+                                    <div class="alert alert-{{ message.tags }}" role="alert">
+                                        {{ message }}
+                                    </div>
+                                {% endfor %}
+                            {% endif %}
+
+                            <form action="" method="post">
+                                {% csrf_token %}
+                                <div class="form-group">
+								<input class="input" type="text" name="username" placeholder="User Name">
+							</div>
+							<div class="form-group">
+								<input class="input" type="text" name="password" placeholder="Password">
+							</div>
+                                <input type="submit" value="Login">
+
+                            </form>
+
+
+                        </div>
+                    </div>
+
+        </div> <!-- row -->
+    </div><!--cont-->
+    </div> <!-- sect->
+
+
+
+
+{% endblock %}
+
+  {% load static %}
+
+
+
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+    <script src="{% static 'js/alime.bundle.js'%} "></script>
+
+    <script src="{% static 'js/default-assets/active.js'%}"></script>
+

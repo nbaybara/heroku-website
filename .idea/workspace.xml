@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6edde5e-d507-4c77-acae-c23a065727de" name="Default Changelist" comment="Done." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="08f2457e-c203-4e47-ba5e-ddf74b661f7c" />
+  <component name="ProjectId" id="1ZlAHWXZ2Y24p4BIQCx75zsg4oA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nsbay\Django\project\home\static\contactTemplate" />
+      <recent name="C:\Users\nsbay\Django\project\user\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nsbay\Django\project\home\static" />
+      <recent name="C:\Users\nsbay\Django\project\home\static\contactTemplate" />
+      <recent name="C:\Users\nsbay\Django\project\home\templates" />
+      <recent name="C:\Users\nsbay\Django\project\user\templates" />
+      <recent name="C:\Users\nsbay\Django\project\user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.project">
+    <configuration name="Test: home" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="home" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: home" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6edde5e-d507-4c77-acae-c23a065727de" name="Default Changelist" comment="" />
+      <created>1585403219652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585403219652</updated>
+      <workItem from="1585403226217" duration="10101000" />
+      <workItem from="1585663078944" duration="7245000" />
+      <workItem from="1585753158273" duration="2629000" />
+      <workItem from="1585769056214" duration="4915000" />
+      <workItem from="1585775465310" duration="4835000" />
+      <workItem from="1585853026343" duration="1337000" />
+      <workItem from="1585870009437" duration="645000" />
+      <workItem from="1585946306317" duration="346000" />
+      <workItem from="1586175982483" duration="7476000" />
+      <workItem from="1586270658383" duration="3333000" />
+      <workItem from="1586302222973" duration="3052000" />
+      <workItem from="1586383160227" duration="702000" />
+      <workItem from="1586427914046" duration="1201000" />
+      <workItem from="1586457556439" duration="619000" />
+      <workItem from="1586608941753" duration="170000" />
+      <workItem from="1586609148388" duration="18650000" />
+      <workItem from="1586645656203" duration="2629000" />
+      <workItem from="1586964705464" duration="2004000" />
+      <workItem from="1586967041905" duration="322000" />
+      <workItem from="1586967388525" duration="661000" />
+      <workItem from="1586987743011" duration="1893000" />
+      <workItem from="1587472849038" duration="897000" />
+      <workItem from="1587727224813" duration="4174000" />
+      <workItem from="1587769130486" duration="1763000" />
+      <workItem from="1587825133331" duration="4417000" />
+      <workItem from="1588268417144" duration="323000" />
+      <workItem from="1588470490760" duration="5753000" />
+      <workItem from="1588512460097" duration="2710000" />
+      <workItem from="1588515354072" duration="12395000" />
+      <workItem from="1588731095901" duration="4144000" />
+      <workItem from="1588766941794" duration="1997000" />
+      <workItem from="1588826817947" duration="625000" />
+      <workItem from="1588973857809" duration="15011000" />
+      <workItem from="1589050724873" duration="13749000" />
+      <workItem from="1589130436922" duration="1225000" />
+      <workItem from="1589206093434" duration="713000" />
+      <workItem from="1589682174967" duration="656000" />
+      <workItem from="1589768860343" duration="8917000" />
+      <workItem from="1589782636632" duration="9315000" />
+      <workItem from="1589804974936" duration="2613000" />
+      <workItem from="1589853565628" duration="8073000" />
+      <workItem from="1589882187875" duration="6842000" />
+      <workItem from="1589941297066" duration="20427000" />
+      <workItem from="1590024459023" duration="7974000" />
+      <workItem from="1590050099034" duration="15191000" />
+      <workItem from="1590184478609" duration="11983000" />
+      <workItem from="1590243225903" duration="37870000" />
+      <workItem from="1590487419851" duration="19180000" />
+      <workItem from="1590664822466" duration="18589000" />
+      <workItem from="1591033144367" duration="9222000" />
+      <workItem from="1591098186430" duration="2326000" />
+      <workItem from="1591388642504" duration="5872000" />
+      <workItem from="1591459838631" duration="12884000" />
+      <workItem from="1591563498452" duration="2767000" />
+      <workItem from="1591566322289" duration="2926000" />
+      <workItem from="1591819460296" duration="8631000" />
+      <workItem from="1591897219692" duration="8813000" />
+      <workItem from="1591994023205" duration="1825000" />
+      <workItem from="1592515031655" duration="13033000" />
+      <workItem from="1592667347086" duration="5614000" />
+      <workItem from="1592861040878" duration="831000" />
+      <workItem from="1593007581545" duration="1114000" />
+      <workItem from="1593008726993" duration="10915000" />
+      <workItem from="1593038187886" duration="1082000" />
+      <workItem from="1593114819543" duration="1936000" />
+      <workItem from="1599853599352" duration="1953000" />
+      <workItem from="1599856198692" duration="1857000" />
+    </task>
+    <task id="LOCAL-00001" summary="Video6">
+      <created>1585774996637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585774996637</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eksik dosyalar">
+      <created>1585775059922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585775059922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="end od 6th video">
+      <created>1585946519593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585946519593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Product Admin Resim Galerisi eklendi.">
+      <created>1586266345367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586266345367</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ck editör">
+      <created>1588476354150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588476354150</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ck editör">
+      <created>1588512889564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588512889564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="About-blog-gallery-references">
+      <created>1588554352866</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588554352866</updated>
+    </task>
+    <task id="LOCAL-00008" summary="contact sayfası">
+      <created>1589206278414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589206278414</updated>
+    </task>
+    <task id="LOCAL-00009" summary="15-full">
+      <created>1589888462467</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589888462468</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Kategori, alt ürünler, detay arama butonu">
+      <created>1590244703405</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590244703405</updated>
+    </task>
+    <task id="LOCAL-00011" summary="24. videoya kadar tamamlandı.&#10;Login / Sign up işlemleri tamalandı.">
+      <created>1590343185229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590343185229</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Üye paneli oluşturuldu, category düzeltildi">
+      <created>1590520015394</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590520015394</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update/change password">
+      <created>1590529834609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590529834609</updated>
+    </task>
+    <task id="LOCAL-00014" summary="admin içerik ekleme/yorum silme...">
+      <created>1591563582164</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591563582164</updated>
+    </task>
+    <task id="LOCAL-00015" summary="admin içerik ekleme/yorum silme...">
+      <created>1591821020243</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591821020243</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Son detaylar">
+      <created>1592524198857</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592524198857</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Done.">
+      <created>1592669330400</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592669330400</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Done.">
+      <created>1593010248607</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593010248607</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Done.">
+      <created>1593010345148</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593010345148</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Video6" />
+    <MESSAGE value="eksik dosyalar" />
+    <MESSAGE value="end od 6th video" />
+    <MESSAGE value="Product Admin Resim Galerisi eklendi." />
+    <MESSAGE value="Ck editör" />
+    <MESSAGE value="About-blog-gallery-references" />
+    <MESSAGE value="contact sayfası" />
+    <MESSAGE value="15-full" />
+    <MESSAGE value="Kategori, alt ürünler, detay arama butonu" />
+    <MESSAGE value="24. videoya kadar tamamlandı.&#10;Login / Sign up işlemleri tamalandı." />
+    <MESSAGE value="Üye paneli oluşturuldu, category düzeltildi" />
+    <MESSAGE value="update/change password" />
+    <MESSAGE value="admin içerik ekleme/yorum silme..." />
+    <MESSAGE value="Son detaylar" />
+    <MESSAGE value="Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Done." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593009290855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593009290855" />
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1592678897230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592678897230" />
+    <state x="521" y="0" key="CommitChangelistDialog2" timestamp="1593026553153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593026553153" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1593009257664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593009257664" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1593032042732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593032042732" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1593032042732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593032042732" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1593032042732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593032042732" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1593032042732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593032042732" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1591570000153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1591570000153" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1599856267228">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592678797553" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599856267228" />
+    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1592669994086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1592669994086" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1592678555595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1592678555595" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1593024889598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593024889598" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593024591100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593024591100" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1591968236750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1591968236750" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592678687453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592678687453" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/user/urls.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project$views.coverage" NAME="views Coverage Results" MODIFIED="1590325989639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home" />
+    <SUITE FILE_PATH="coverage/project$Test__home.coverage" NAME="Test: home Coverage Results" MODIFIED="1593009161278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
